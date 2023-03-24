@@ -22,7 +22,7 @@
         Console.WriteLine("x is between 10 and 50");
     }
 
-    else if (x > 10 & x < 200)
+    else if (x > 10 & x < 250)
     {
         Console.WriteLine("x is between 10 and 200");
     }
